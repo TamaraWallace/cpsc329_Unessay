@@ -1,0 +1,45 @@
+user:
+C:\Users\BookWyrm
+keystroke:
+***   11/04/2020, 17:20:19	WINDOW: 	 key: b  ***
+***   11/04/2020, 17:20:21	WINDOW: 	 key: c  ***
+***   11/04/2020, 17:20:22	WINDOW: 	 key: d  ***
+passwords:
+this is a test
+potential password:
+this is another test
+username:
+hello
+all strings:
+i have no idea what i'm doing
+-------------------------
+user:
+C:\Users\BookWyrm
+keystroke:
+***   11/04/2020, 18:08:53	WINDOW: 	 key: a  ***
+***   11/04/2020, 18:08:54	WINDOW: 	 key: b  ***
+***   11/04/2020, 18:08:55	WINDOW: 	 key: c  ***
+passwords:
+this is a test
+potential password:
+this is another test
+username:
+hello
+all strings:
+i have no idea what i'm doing
+-------------------------
+user:
+C:\Users\BookWyrm
+keystroke:
+***   11/04/2020, 18:08:53	WINDOW: 	 key: a  ***
+***   11/04/2020, 18:08:54	WINDOW: 	 key: b  ***
+***   11/04/2020, 18:08:55	WINDOW: 	 key: c  ***
+passwords:
+this is a test
+potential password:
+this is another test
+username:
+hello
+all strings:
+i have no idea what i'm doing
+-------------------------
