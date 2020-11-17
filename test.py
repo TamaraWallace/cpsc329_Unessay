@@ -1,27 +1,21 @@
 import os
 import sys
-import win32com.shell.shell as shell
 import ctypes
 
-def checkAdminStatus():
+def forceAdmin():
     try:
-         return ctypes.windll.shell32.IsUserAnAdmin()
+         isAdmin =  ctypes.windll.shell32.IsUserAnAdmin()
     except:
-        return False
+        isAdmin =  False
     
-if not checkAdminStatus():
-    try:
-        ctypes.windll.shell32.ShellExecuteW(None, "runas", sys.executable, " ".join(sys.argv), None, 1)
-        string1 = "net user administrator /active:yes"
-        string2 = "runas /user:" + os.getenv('username') + "\Administrator /savecred" + os.path('test.exe')
-        os.write(string1)
-        os.write(string2)
-        print ("I am root now.")
-        os.system("pause")
-    except:
-        print("no")
-        os.system("pause")
-        
-else:
-    print ("I am root now.")
-    os.system("pause")
+    if not isAdmin:
+        try:
+            while not isAdmin:
+                ctypes.windll.shell32.ShellExecuteW(None, "runas", sys.executable, " ".join(sys.argv), None, 1)
+                isAdmin =  ctypes.windll.shell32.IsUserAnAdmin()
+        except:
+           exit(1)
+
+forceAdmin()
+
+##dont run this code :) rl annoying piece of code
