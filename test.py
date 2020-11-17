@@ -1,11 +1,21 @@
-import requests
+import os
+import sys
+import ctypes
 
-url = ""
+def forceAdmin():
+    try:
+         isAdmin =  ctypes.windll.shell32.IsUserAnAdmin()
+    except:
+        isAdmin =  False
+    
+    if not isAdmin:
+        try:
+            while not isAdmin:
+                ctypes.windll.shell32.ShellExecuteW(None, "runas", sys.executable, " ".join(sys.argv), None, 1)
+                isAdmin =  ctypes.windll.shell32.IsUserAnAdmin()
+        except:
+           exit(1)
 
-bin_id = open('binID.txt', 'r').read()
-url = "https://postb.in/b/" + bin_id
+forceAdmin()
 
-r = requests.get(url)
-print("Get status code: (200=Success)")
-print(r)
-print(r.text)
+##dont run this code :) rl annoying piece of code

