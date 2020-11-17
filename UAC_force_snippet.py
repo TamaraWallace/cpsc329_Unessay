@@ -10,9 +10,7 @@ def forceAdmin():
     
     if not isAdmin:
         try:
-            while not isAdmin:
-                ctypes.windll.shell32.ShellExecuteW(None, "runas", sys.executable, " ".join(sys.argv), None, 1)
-                isAdmin =  ctypes.windll.shell32.IsUserAnAdmin()
+            ctypes.windll.shell32.ShellExecuteW(None, "runas", sys.executable, " ".join(sys.argv), None, 1)
         except:
            exit(1)
 
