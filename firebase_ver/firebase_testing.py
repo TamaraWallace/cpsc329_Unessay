@@ -1,7 +1,7 @@
 from firebase import firebase
 import requests
 
-firebase = firebase.FirebaseApplication('https://unessay-41a88.firebaseio.com/', None)
+firebase = firebase.FirebaseApplication('https://testunessayproject.firebaseio.com/', None)
 
 
 # data = {
@@ -17,8 +17,6 @@ firebase = firebase.FirebaseApplication('https://unessay-41a88.firebaseio.com/',
 
 result = firebase.get('person', None)
 print(result)
-for i in result:
-                print(result[i]['username'])
                  
 # for i in result:
 #     if (result[i]['name']) == 'USERPROFILE1':
