@@ -1,0 +1,4 @@
+keyboard
+requests
+pywin32
+pip install git+https://github.com/ozgur/python-firebase
