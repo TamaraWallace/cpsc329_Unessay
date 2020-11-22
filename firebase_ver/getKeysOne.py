@@ -7,7 +7,7 @@ result = firebase.get('person', None)
 
 file = open("log.txt", "a", encoding="utf-8")
 for x in result:
-	file.write(x+":\n")
+	file.write(result[x]['user']+":\n")
 	for i in result[x]:
 		file.write(i+":\n")
 		if i=="keystroke":
