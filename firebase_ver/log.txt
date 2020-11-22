@@ -1,0 +1,318 @@
+-MMJPwNqePRzRzaVSbi5:
+all strings:
+~hiiam@gmaol.com~huhuhuhhhuhuhahhahauha~P@55word!~~~check~one~two~three~muc~ic
+keystroke:
+11/16/2020 21:17:02 WINDOW: Task Switching key: [tab]
+11/16/2020 21:17:04 WINDOW: one.py - C:\Users\munda\Desktop\one.py (3.9.0) key: [alt]
+11/16/2020 21:16:36 WINDOW: Desktop key: @
+11/16/2020 21:16:36 WINDOW: Desktop key: [right_shift]
+11/16/2020 21:16:36 WINDOW: Desktop key: g
+11/16/2020 21:16:36 WINDOW: Desktop key: m
+11/16/2020 21:16:37 WINDOW: Desktop key: a
+11/16/2020 21:16:38 WINDOW: Desktop key: o
+11/16/2020 21:16:38 WINDOW: Desktop key: l
+11/16/2020 21:16:38 WINDOW: Desktop key: .
+11/16/2020 21:16:38 WINDOW: Desktop key: c
+11/16/2020 21:16:39 WINDOW: Desktop key: o
+11/16/2020 21:16:39 WINDOW: Desktop key: m
+11/16/2020 21:16:39 WINDOW: Desktop key: [space]
+11/16/2020 21:16:42 WINDOW: Desktop key: h
+11/16/2020 21:16:42 WINDOW: Desktop key: u
+11/16/2020 21:16:42 WINDOW: Desktop key: h
+11/16/2020 21:16:42 WINDOW: Desktop key: u
+11/16/2020 21:16:42 WINDOW: Desktop key: h
+11/16/2020 21:16:42 WINDOW: Desktop key: u
+11/16/2020 21:16:42 WINDOW: Desktop key: h
+11/16/2020 21:16:43 WINDOW: Desktop key: h
+11/16/2020 21:16:43 WINDOW: Desktop key: h
+11/16/2020 21:16:43 WINDOW: Desktop key: u
+11/16/2020 21:16:43 WINDOW: Desktop key: h
+11/16/2020 21:16:43 WINDOW: Desktop key: u
+11/16/2020 21:16:43 WINDOW: Desktop key: h
+11/16/2020 21:16:43 WINDOW: Desktop key: a
+11/16/2020 21:16:43 WINDOW: Desktop key: h
+11/16/2020 21:16:43 WINDOW: Desktop key: h
+11/16/2020 21:16:43 WINDOW: Desktop key: a
+11/16/2020 21:16:43 WINDOW: Desktop key: h
+11/16/2020 21:16:43 WINDOW: Desktop key: a
+11/16/2020 21:16:43 WINDOW: Desktop key: u
+11/16/2020 21:16:43 WINDOW: Desktop key: h
+11/16/2020 21:16:44 WINDOW: Desktop key: a
+11/16/2020 21:16:44 WINDOW: Desktop key: [space]
+11/16/2020 21:16:26 WINDOW: Desktop key: @
+11/16/2020 21:16:26 WINDOW: Desktop key: [right_shift]
+11/16/2020 21:16:27 WINDOW: Desktop key: 5
+11/16/2020 21:16:28 WINDOW: Desktop key: 5
+11/16/2020 21:16:28 WINDOW: Desktop key: w
+11/16/2020 21:16:28 WINDOW: Desktop key: o
+11/16/2020 21:16:28 WINDOW: Desktop key: r
+11/16/2020 21:16:29 WINDOW: Desktop key: d
+11/16/2020 21:16:29 WINDOW: Desktop key: !
+11/16/2020 21:16:29 WINDOW: Desktop key: [right_shift]
+11/16/2020 21:16:30 WINDOW: Desktop key: [space]
+11/16/2020 21:16:34 WINDOW: Desktop key: h
+11/16/2020 21:16:34 WINDOW: Desktop key: i
+11/16/2020 21:16:35 WINDOW: Desktop key: i
+11/16/2020 21:16:35 WINDOW: Desktop key: a
+11/16/2020 21:16:35 WINDOW: Desktop key: m
+11/16/2020 21:16:19 WINDOW: Task Switching key: [tab]
+11/16/2020 21:16:21 WINDOW: Desktop key: [alt]
+11/16/2020 21:16:25 WINDOW: Desktop key: P
+11/16/2020 21:16:25 WINDOW: Desktop key: [right_shift]
+11/16/2020 21:15:46 WINDOW: Task Switching key: [tab]
+11/16/2020 21:15:46 WINDOW: Task Switching key: [alt]
+11/16/2020 21:15:35 WINDOW: Desktop key: c
+11/16/2020 21:15:35 WINDOW: Desktop key: h
+11/16/2020 21:15:36 WINDOW: Desktop key: e
+11/16/2020 21:15:36 WINDOW: Desktop key: c
+11/16/2020 21:15:36 WINDOW: Desktop key: k
+11/16/2020 21:15:37 WINDOW: Desktop key: [space]
+11/16/2020 21:15:39 WINDOW: Task Switching key: [tab]
+11/16/2020 21:15:41 WINDOW: one.py - C:\Users\munda\Desktop\one.py (3.9.0) key: [alt]
+11/16/2020 21:15:42 WINDOW: Task Switching key: [tab]
+11/16/2020 21:15:45 WINDOW: How To Install Git Bash On Windows - Stanley Ulili and 4 more pages - Personal - Microsoft​ Edge key: [alt]
+11/16/2020 21:15:28 WINDOW: Desktop key: o
+11/16/2020 21:15:28 WINDOW: Desktop key: n
+11/16/2020 21:15:29 WINDOW: Desktop key: e
+11/16/2020 21:15:29 WINDOW: Desktop key: [space]
+11/16/2020 21:15:29 WINDOW: Desktop key: t
+11/16/2020 21:15:29 WINDOW: Desktop key: w
+11/16/2020 21:15:29 WINDOW: Desktop key: o
+11/16/2020 21:15:30 WINDOW: Desktop key: [space]
+11/16/2020 21:15:30 WINDOW: Desktop key: t
+11/16/2020 21:15:30 WINDOW: Desktop key: h
+11/16/2020 21:15:30 WINDOW: Desktop key: r
+11/16/2020 21:15:30 WINDOW: Desktop key: e
+11/16/2020 21:15:30 WINDOW: Desktop key: e
+11/16/2020 21:15:31 WINDOW: Desktop key: [space]
+11/16/2020 21:15:32 WINDOW: Desktop key: m
+11/16/2020 21:15:32 WINDOW: Desktop key: u
+11/16/2020 21:15:32 WINDOW: Desktop key: c
+11/16/2020 21:15:32 WINDOW: Desktop key: [space]
+11/16/2020 21:15:33 WINDOW: Desktop key: [backspace]
+11/16/2020 21:15:33 WINDOW: Desktop key: [backspace]
+11/16/2020 21:15:33 WINDOW: Desktop key: [backspace]
+11/16/2020 21:15:34 WINDOW: Desktop key: i
+11/16/2020 21:15:34 WINDOW: Desktop key: c
+11/16/2020 21:15:35 WINDOW: Desktop key: [space]
+passwords:
+~Desktop:hiiam@gmaol.com~Desktop:huhuhuhhhuhuhahhahauha~Desktop:P@55word!~~~~
+potential password:
+~~Desktop:P@55word!~~~~
+user:
+C:\Users\munda
+username:
+~Desktop:hiiam@gmaol.com~~~~~
+
+-MMg7ULCalCe2sN561b6:
+all strings:
+fuckrinteresting~~~~~~MEEE~hellOYEET~YEET~HELP~ahello???~~~yeah~i~ti~think~I~fixed~it,~I~got~did~a~wrong~install~~hello?~
+keystroke:
+11/21/2020 11:47:20 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: [right]
+11/21/2020 11:47:23 WINDOW: Task Switching key: [alt]
+11/21/2020 11:47:23 WINDOW: Task Switching key: [tab]
+11/21/2020 11:47:24 WINDOW: Task Switching key: [alt]
+11/21/2020 11:47:24 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: [tab]
+11/21/2020 11:47:10 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: [left]
+11/21/2020 11:47:18 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: [right]
+11/21/2020 11:46:59 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: [left]
+11/21/2020 11:46:59 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: [home]
+11/21/2020 11:47:00 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: [down]
+11/21/2020 11:47:01 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: [down]
+11/21/2020 11:47:02 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: [up]
+11/21/2020 11:47:06 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: [end]
+11/21/2020 11:46:56 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: [home]
+11/21/2020 11:46:57 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: [end]
+11/21/2020 11:46:47 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: i
+11/21/2020 11:46:47 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: n
+11/21/2020 11:46:47 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: t
+11/21/2020 11:46:47 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: e
+11/21/2020 11:46:47 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: r
+11/21/2020 11:46:47 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: e
+11/21/2020 11:46:48 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: s
+11/21/2020 11:46:48 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: t
+11/21/2020 11:46:48 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: i
+11/21/2020 11:46:48 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: n
+11/21/2020 11:46:48 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: g
+11/21/2020 11:46:13 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: r
+11/21/2020 11:46:13 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: [ctrl]
+11/21/2020 11:45:59 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: E
+11/21/2020 11:45:59 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: E
+11/21/2020 11:45:59 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: [shift]
+11/21/2020 11:46:00 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: [ctrl]
+11/21/2020 11:46:00 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: a
+11/21/2020 11:46:01 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: [backspace]
+11/21/2020 11:46:06 WINDOW: *PyInstaller terminal commands.txt - Notepad key: [end]
+11/21/2020 11:46:07 WINDOW: *PyInstaller terminal commands.txt - Notepad key: [enter]
+11/21/2020 11:46:07 WINDOW: *PyInstaller terminal commands.txt - Notepad key: [enter]
+11/21/2020 11:46:07 WINDOW: *PyInstaller terminal commands.txt - Notepad key: [enter]
+11/21/2020 11:46:07 WINDOW: *PyInstaller terminal commands.txt - Notepad key: f
+11/21/2020 11:46:08 WINDOW: *PyInstaller terminal commands.txt - Notepad key: u
+11/21/2020 11:46:08 WINDOW: *PyInstaller terminal commands.txt - Notepad key: c
+11/21/2020 11:46:08 WINDOW: *PyInstaller terminal commands.txt - Notepad key: k
+11/21/2020 11:45:49 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: l
+11/21/2020 11:45:49 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: l
+11/21/2020 11:45:50 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: O
+11/21/2020 11:45:51 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: [shift]
+11/21/2020 11:45:52 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: a
+11/21/2020 11:45:52 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: [ctrl]
+11/21/2020 11:45:52 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: [backspace]
+11/21/2020 11:45:53 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: Y
+11/21/2020 11:45:53 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: E
+11/21/2020 11:45:53 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: E
+11/21/2020 11:45:53 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: T
+11/21/2020 11:45:53 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: [shift]
+11/21/2020 11:45:53 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: [space]
+11/21/2020 11:45:54 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: Y
+11/21/2020 11:45:54 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: E
+11/21/2020 11:45:55 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: T
+11/21/2020 11:45:55 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: [backspace]
+11/21/2020 11:45:56 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: E
+11/21/2020 11:45:56 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: T
+11/21/2020 11:45:56 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: [space]
+11/21/2020 11:45:56 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: H
+11/21/2020 11:45:57 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: E
+11/21/2020 11:45:57 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: P
+11/21/2020 11:45:57 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: [backspace]
+11/21/2020 11:45:57 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: L
+11/21/2020 11:45:58 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: P
+11/21/2020 11:45:58 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: [space]
+11/21/2020 11:45:58 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: M
+11/21/2020 11:45:58 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: E
+11/21/2020 11:45:46 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: [ctrl]
+11/21/2020 11:45:46 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: a
+11/21/2020 11:45:46 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: h
+11/21/2020 11:45:46 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: e
+11/21/2020 11:45:47 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: l
+11/21/2020 11:45:47 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: l
+11/21/2020 11:45:47 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: o
+11/21/2020 11:45:47 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: ?
+11/21/2020 11:45:47 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: ?
+11/21/2020 11:45:48 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: ?
+11/21/2020 11:45:48 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: [shift]
+11/21/2020 11:45:48 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: [space]
+11/21/2020 11:45:48 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: h
+11/21/2020 11:45:48 WINDOW: TestUnessayProject – Firebase console - Google Chrome key: e
+11/17/2020 19:03:04 WINDOW: ozgur/python-firebase: Python interface to the Firebase's REST API - Google Chrome key: T
+11/17/2020 19:03:04 WINDOW: ozgur/python-firebase: Python interface to the Firebase's REST API - Google Chrome key: [shift]
+11/17/2020 19:03:04 WINDOW: ozgur/python-firebase: Python interface to the Firebase's REST API - Google Chrome key: [ctrl]
+11/17/2020 19:01:39 WINDOW:  key: [tab]
+11/17/2020 19:01:40 WINDOW: Task Switching key: [alt]
+11/17/2020 19:01:29 WINDOW: #general - Discord key: y
+11/17/2020 19:01:29 WINDOW: #general - Discord key: e
+11/17/2020 19:01:29 WINDOW: #general - Discord key: a
+11/17/2020 19:01:29 WINDOW: #general - Discord key: h
+11/17/2020 19:01:30 WINDOW: #general - Discord key: [space]
+11/17/2020 19:01:30 WINDOW: #general - Discord key: [shift]
+11/17/2020 19:01:30 WINDOW: #general - Discord key: i
+11/17/2020 19:01:30 WINDOW: #general - Discord key: [space]
+11/17/2020 19:01:30 WINDOW: #general - Discord key: t
+11/17/2020 19:01:30 WINDOW: #general - Discord key: h
+11/17/2020 19:01:30 WINDOW: #general - Discord key: [backspace]
+11/17/2020 19:01:31 WINDOW: #general - Discord key: a
+11/17/2020 19:01:31 WINDOW: #general - Discord key: [ctrl]
+11/17/2020 19:01:31 WINDOW: #general - Discord key: [backspace]
+11/17/2020 19:01:31 WINDOW: #general - Discord key: [shift]
+11/17/2020 19:01:31 WINDOW: #general - Discord key: i
+11/17/2020 19:01:31 WINDOW: #general - Discord key: [space]
+11/17/2020 19:01:32 WINDOW: #general - Discord key: t
+11/17/2020 19:01:32 WINDOW: #general - Discord key: h
+11/17/2020 19:01:32 WINDOW: #general - Discord key: i
+11/17/2020 19:01:32 WINDOW: #general - Discord key: n
+11/17/2020 19:01:32 WINDOW: #general - Discord key: k
+11/17/2020 19:01:32 WINDOW: #general - Discord key: [space]
+11/17/2020 19:01:32 WINDOW: #general - Discord key: I
+11/17/2020 19:01:32 WINDOW: #general - Discord key: [shift]
+11/17/2020 19:01:32 WINDOW: #general - Discord key: [space]
+11/17/2020 19:01:32 WINDOW: #general - Discord key: f
+11/17/2020 19:01:33 WINDOW: #general - Discord key: i
+11/17/2020 19:01:33 WINDOW: #general - Discord key: x
+11/17/2020 19:01:33 WINDOW: #general - Discord key: e
+11/17/2020 19:01:33 WINDOW: #general - Discord key: d
+11/17/2020 19:01:33 WINDOW: #general - Discord key: [space]
+11/17/2020 19:01:33 WINDOW: #general - Discord key: i
+11/17/2020 19:01:33 WINDOW: #general - Discord key: t
+11/17/2020 19:01:34 WINDOW: #general - Discord key: ,
+11/17/2020 19:01:34 WINDOW: #general - Discord key: [space]
+11/17/2020 19:01:34 WINDOW: #general - Discord key: I
+11/17/2020 19:01:34 WINDOW: #general - Discord key: [shift]
+11/17/2020 19:01:34 WINDOW: #general - Discord key: [space]
+11/17/2020 19:01:35 WINDOW: #general - Discord key: g
+11/17/2020 19:01:35 WINDOW: #general - Discord key: o
+11/17/2020 19:01:35 WINDOW: #general - Discord key: t
+11/17/2020 19:01:35 WINDOW: #general - Discord key: [space]
+11/17/2020 19:01:35 WINDOW: #general - Discord key: [backspace]
+11/17/2020 19:01:35 WINDOW: #general - Discord key: [backspace]
+11/17/2020 19:01:35 WINDOW: #general - Discord key: [backspace]
+11/17/2020 19:01:36 WINDOW: #general - Discord key: [backspace]
+11/17/2020 19:01:36 WINDOW: #general - Discord key: d
+11/17/2020 19:01:36 WINDOW: #general - Discord key: i
+11/17/2020 19:01:36 WINDOW: #general - Discord key: d
+11/17/2020 19:01:36 WINDOW: #general - Discord key: [space]
+11/17/2020 19:01:36 WINDOW: #general - Discord key: a
+11/17/2020 19:01:37 WINDOW: #general - Discord key: [space]
+11/17/2020 19:01:37 WINDOW: #general - Discord key: w
+11/17/2020 19:01:37 WINDOW: #general - Discord key: r
+11/17/2020 19:01:37 WINDOW: #general - Discord key: o
+11/17/2020 19:01:37 WINDOW: #general - Discord key: n
+11/17/2020 19:01:38 WINDOW: #general - Discord key: g
+11/17/2020 19:01:38 WINDOW: #general - Discord key: [space]
+11/17/2020 19:01:38 WINDOW: #general - Discord key: i
+11/17/2020 19:01:38 WINDOW: #general - Discord key: n
+11/17/2020 19:01:38 WINDOW: #general - Discord key: s
+11/17/2020 19:01:38 WINDOW: #general - Discord key: t
+11/17/2020 19:01:38 WINDOW: #general - Discord key: a
+11/17/2020 19:01:38 WINDOW: #general - Discord key: l
+11/17/2020 19:01:38 WINDOW: #general - Discord key: l
+11/17/2020 19:01:38 WINDOW: #general - Discord key: [enter]
+11/17/2020 19:01:23 WINDOW: Cloud Storage  |  Firebase - Google Chrome key: [alt]
+11/17/2020 19:01:23 WINDOW: Task Switching key: [tab]
+11/17/2020 19:01:24 WINDOW: Task Switching key: [tab]
+11/17/2020 19:01:24 WINDOW: Task Switching key: [tab]
+11/17/2020 19:01:25 WINDOW: *Python 3.6.4 Shell* key: [alt]
+11/17/2020 19:01:26 WINDOW:  key: [tab]
+11/17/2020 19:01:26 WINDOW: Task Switching key: [tab]
+11/17/2020 19:01:26 WINDOW: Task Switching key: [tab]
+11/17/2020 19:01:26 WINDOW: Task Switching key: [tab]
+11/17/2020 19:01:27 WINDOW: #general - Discord key: [alt]
+11/17/2020 19:00:39 WINDOW: *Python 3.6.4 Shell* key: ?
+11/17/2020 19:00:39 WINDOW: *Python 3.6.4 Shell* key: [right_shift]
+11/17/2020 19:00:39 WINDOW: *Python 3.6.4 Shell* key: [enter]
+11/17/2020 19:00:40 WINDOW: *Python 3.6.4 Shell* key: [backspace]
+11/17/2020 19:00:41 WINDOW: *Python 3.6.4 Shell* key: [enter]
+11/17/2020 19:00:42 WINDOW: *Python 3.6.4 Shell* key: [backspace]
+11/17/2020 19:00:42 WINDOW: *Python 3.6.4 Shell* key: [enter]
+11/17/2020 19:00:42 WINDOW: *Python 3.6.4 Shell* key: [backspace]
+11/17/2020 19:00:42 WINDOW: *Python 3.6.4 Shell* key: [enter]
+11/17/2020 19:00:43 WINDOW: *Python 3.6.4 Shell* key: [backspace]
+11/17/2020 19:00:43 WINDOW: *Python 3.6.4 Shell* key: [enter]
+11/17/2020 19:00:43 WINDOW: *Python 3.6.4 Shell* key: [backspace]
+11/17/2020 19:00:43 WINDOW: *Python 3.6.4 Shell* key: [enter]
+11/17/2020 19:00:43 WINDOW: *Python 3.6.4 Shell* key: [backspace]
+11/17/2020 19:00:44 WINDOW: *Python 3.6.4 Shell* key: [enter]
+11/17/2020 19:00:44 WINDOW: *Python 3.6.4 Shell* key: [backspace]
+11/17/2020 19:00:44 WINDOW: *Python 3.6.4 Shell* key: [enter]
+11/17/2020 19:00:44 WINDOW: *Python 3.6.4 Shell* key: [backspace]
+11/17/2020 19:00:44 WINDOW: *Python 3.6.4 Shell* key: [enter]
+11/17/2020 19:00:45 WINDOW: *Python 3.6.4 Shell* key: [backspace]
+11/17/2020 19:00:45 WINDOW: *Python 3.6.4 Shell* key: [enter]
+11/17/2020 19:00:45 WINDOW: *Python 3.6.4 Shell* key: [backspace]
+11/17/2020 19:00:45 WINDOW: *Python 3.6.4 Shell* key: [enter]
+11/17/2020 19:00:46 WINDOW: *Python 3.6.4 Shell* key: [backspace]
+11/17/2020 19:00:32 WINDOW: *Python 3.6.4 Shell* key: h
+11/17/2020 19:00:32 WINDOW: *Python 3.6.4 Shell* key: e
+11/17/2020 19:00:32 WINDOW: *Python 3.6.4 Shell* key: l
+11/17/2020 19:00:32 WINDOW: *Python 3.6.4 Shell* key: l
+11/17/2020 19:00:33 WINDOW: *Python 3.6.4 Shell* key: o
+11/17/2020 19:00:33 WINDOW: *Python 3.6.4 Shell* key: ?
+11/17/2020 19:00:33 WINDOW: *Python 3.6.4 Shell* key: [right_shift]
+11/17/2020 19:00:37 WINDOW: *Python 3.6.4 Shell* key: [backspace]
+passwords:
+Task Switching:fuckrinteresting~~~~~~~TestUnessayProject – Firebase console - Google Chrome:hellOYEET~TestUnessayProject – Firebase console - Google Chrome:ahello???~~~~~~
+potential password:
+~~~~~~~~~~~~~~
+user:
+C:\Users\alexa
+username:
+~~~~~~~~~~~~~~
+
