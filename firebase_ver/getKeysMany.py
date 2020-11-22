@@ -25,9 +25,10 @@ def getAll():
 def refresh():
 	print('\n')
 	result = firebase.get('person', None)
-	print('Done\n')
+	print('Refresh Done\n')
 
 def getUser():
+	refresh()
 	print('\n')
 	for x in result:
 		name = result[x]['user']
@@ -36,6 +37,7 @@ def getUser():
 	
 
 def getByName():
+	refresh()
 	print('\n')
 	i=0
 	for x in result:
