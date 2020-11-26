@@ -1,134 +1,128 @@
 all strings:
-~da~fasdfasfd~sdfas~df~sdf~as~as~afdsadaafdafdafdsafasdfasdf~afa~sdfa~sfd~asfasdf~asdf~afasdfas~dfas~dfa~o
+adafdafasdfasfdafdafd~afdasfd~asfdas~fdas~fds~af~sad~fd~asf~das~fasdfasd~fasdf~eoneoneoeoenoneooeo~oen~one~eoen
 keystroke:
-11/22/2020 13:47:57 WINDOW: *Python 3.9.0 Shell* key: [right_ctrl]
-11/22/2020 13:47:57 WINDOW: *Python 3.9.0 Shell* key: [alt]
-11/22/2020 13:47:36 WINDOW: *Python 3.9.0 Shell* key: [space]
-11/22/2020 13:47:37 WINDOW: *Python 3.9.0 Shell* key: f
-11/22/2020 13:47:37 WINDOW: *Python 3.9.0 Shell* key: a
-11/22/2020 13:47:37 WINDOW: *Python 3.9.0 Shell* key: s
-11/22/2020 13:47:37 WINDOW: *Python 3.9.0 Shell* key: d
-11/22/2020 13:47:37 WINDOW: *Python 3.9.0 Shell* key: f
-11/22/2020 13:47:37 WINDOW: *Python 3.9.0 Shell* key: a
-11/22/2020 13:47:37 WINDOW: *Python 3.9.0 Shell* key: s
-11/22/2020 13:47:37 WINDOW: *Python 3.9.0 Shell* key: f
-11/22/2020 13:47:37 WINDOW: *Python 3.9.0 Shell* key: d
-11/22/2020 13:47:37 WINDOW: *Python 3.9.0 Shell* key: [space]
-11/22/2020 13:47:37 WINDOW: *Python 3.9.0 Shell* key: s
-11/22/2020 13:47:37 WINDOW: *Python 3.9.0 Shell* key: d
-11/22/2020 13:47:37 WINDOW: *Python 3.9.0 Shell* key: f
-11/22/2020 13:47:37 WINDOW: *Python 3.9.0 Shell* key: a
-11/22/2020 13:47:37 WINDOW: *Python 3.9.0 Shell* key: s
-11/22/2020 13:47:37 WINDOW: *Python 3.9.0 Shell* key: [space]
-11/22/2020 13:47:38 WINDOW: *Python 3.9.0 Shell* key: d
-11/22/2020 13:47:38 WINDOW: *Python 3.9.0 Shell* key: f
-11/22/2020 13:47:38 WINDOW: *Python 3.9.0 Shell* key: [space]
-11/22/2020 13:47:38 WINDOW: *Python 3.9.0 Shell* key: s
-11/22/2020 13:47:38 WINDOW: *Python 3.9.0 Shell* key: d
-11/22/2020 13:47:38 WINDOW: *Python 3.9.0 Shell* key: f
-11/22/2020 13:47:38 WINDOW: *Python 3.9.0 Shell* key: [space]
-11/22/2020 13:47:38 WINDOW: *Python 3.9.0 Shell* key: a
-11/22/2020 13:47:38 WINDOW: *Python 3.9.0 Shell* key: s
-11/22/2020 13:47:38 WINDOW: *Python 3.9.0 Shell* key: [space]
-11/22/2020 13:47:38 WINDOW: *Python 3.9.0 Shell* key: a
-11/22/2020 13:47:38 WINDOW: *Python 3.9.0 Shell* key: s
-11/22/2020 13:47:39 WINDOW: Task Switching key: [tab]
-11/22/2020 13:47:42 WINDOW: Task Switching key: [alt]
-11/22/2020 13:47:22 WINDOW: *Python 3.9.0 Shell* key: [backspace]
-11/22/2020 13:47:22 WINDOW: *Python 3.9.0 Shell* key: d
-11/22/2020 13:47:22 WINDOW: *Python 3.9.0 Shell* key: a
-11/22/2020 13:47:22 WINDOW: *Python 3.9.0 Shell* key: a
-11/22/2020 13:47:23 WINDOW: *Python 3.9.0 Shell* key: f
-11/22/2020 13:47:23 WINDOW: *Python 3.9.0 Shell* key: d
-11/22/2020 13:47:23 WINDOW: *Python 3.9.0 Shell* key: a
-11/22/2020 13:47:23 WINDOW: *Python 3.9.0 Shell* key: f
-11/22/2020 13:47:23 WINDOW: *Python 3.9.0 Shell* key: d
-11/22/2020 13:47:23 WINDOW: *Python 3.9.0 Shell* key: a
-11/22/2020 13:47:23 WINDOW: *Python 3.9.0 Shell* key: f
-11/22/2020 13:47:23 WINDOW: *Python 3.9.0 Shell* key: d
-11/22/2020 13:47:23 WINDOW: *Python 3.9.0 Shell* key: s
-11/22/2020 13:47:23 WINDOW: *Python 3.9.0 Shell* key: a
-11/22/2020 13:47:23 WINDOW: *Python 3.9.0 Shell* key: f
-11/22/2020 13:47:24 WINDOW: *Python 3.9.0 Shell* key: a
-11/22/2020 13:47:24 WINDOW: *Python 3.9.0 Shell* key: s
-11/22/2020 13:47:24 WINDOW: *Python 3.9.0 Shell* key: d
-11/22/2020 13:47:24 WINDOW: *Python 3.9.0 Shell* key: f
-11/22/2020 13:47:24 WINDOW: *Python 3.9.0 Shell* key: a
-11/22/2020 13:47:24 WINDOW: *Python 3.9.0 Shell* key: s
-11/22/2020 13:47:24 WINDOW: *Python 3.9.0 Shell* key: d
-11/22/2020 13:47:24 WINDOW: *Python 3.9.0 Shell* key: f
-11/22/2020 13:47:24 WINDOW: *Python 3.9.0 Shell* key: [space]
-11/22/2020 13:47:25 WINDOW: *Python 3.9.0 Shell* key: [space]
-11/22/2020 13:47:25 WINDOW: *Python 3.9.0 Shell* key: a
-11/22/2020 13:47:25 WINDOW: *Python 3.9.0 Shell* key: f
-11/22/2020 13:47:25 WINDOW: *Python 3.9.0 Shell* key: a
-11/22/2020 13:47:25 WINDOW: *Python 3.9.0 Shell* key: [space]
-11/22/2020 13:47:25 WINDOW: *Python 3.9.0 Shell* key: s
-11/22/2020 13:47:25 WINDOW: *Python 3.9.0 Shell* key: d
-11/22/2020 13:47:25 WINDOW: *Python 3.9.0 Shell* key: f
-11/22/2020 13:47:25 WINDOW: *Python 3.9.0 Shell* key: a
-11/22/2020 13:47:25 WINDOW: *Python 3.9.0 Shell* key: [space]
-11/22/2020 13:47:25 WINDOW: *Python 3.9.0 Shell* key: s
-11/22/2020 13:47:25 WINDOW: *Python 3.9.0 Shell* key: f
-11/22/2020 13:47:25 WINDOW: *Python 3.9.0 Shell* key: d
-11/22/2020 13:47:26 WINDOW: *Python 3.9.0 Shell* key: [space]
-11/22/2020 13:47:26 WINDOW: *Python 3.9.0 Shell* key: a
-11/22/2020 13:47:26 WINDOW: *Python 3.9.0 Shell* key: s
-11/22/2020 13:47:26 WINDOW: *Python 3.9.0 Shell* key: f
-11/22/2020 13:47:26 WINDOW: *Python 3.9.0 Shell* key: a
-11/22/2020 13:47:26 WINDOW: *Python 3.9.0 Shell* key: s
-11/22/2020 13:47:26 WINDOW: *Python 3.9.0 Shell* key: d
-11/22/2020 13:47:26 WINDOW: *Python 3.9.0 Shell* key: f
-11/22/2020 13:47:26 WINDOW: *Python 3.9.0 Shell* key: [space]
-11/22/2020 13:47:26 WINDOW: *Python 3.9.0 Shell* key: a
-11/22/2020 13:47:26 WINDOW: *Python 3.9.0 Shell* key: s
-11/22/2020 13:47:26 WINDOW: *Python 3.9.0 Shell* key: d
-11/22/2020 13:47:26 WINDOW: *Python 3.9.0 Shell* key: f
-11/22/2020 13:47:26 WINDOW: *Python 3.9.0 Shell* key: [space]
-11/22/2020 13:47:26 WINDOW: *Python 3.9.0 Shell* key: a
-11/22/2020 13:47:27 WINDOW: *Python 3.9.0 Shell* key: f
-11/22/2020 13:47:27 WINDOW: *Python 3.9.0 Shell* key: a
-11/22/2020 13:47:27 WINDOW: *Python 3.9.0 Shell* key: s
-11/22/2020 13:47:27 WINDOW: *Python 3.9.0 Shell* key: d
-11/22/2020 13:47:27 WINDOW: *Python 3.9.0 Shell* key: f
-11/22/2020 13:47:27 WINDOW: *Python 3.9.0 Shell* key: a
-11/22/2020 13:47:27 WINDOW: *Python 3.9.0 Shell* key: s
-11/22/2020 13:47:27 WINDOW: *Python 3.9.0 Shell* key: [space]
-11/22/2020 13:47:27 WINDOW: *Python 3.9.0 Shell* key: d
-11/22/2020 13:47:27 WINDOW: *Python 3.9.0 Shell* key: f
-11/22/2020 13:47:27 WINDOW: *Python 3.9.0 Shell* key: a
-11/22/2020 13:47:27 WINDOW: *Python 3.9.0 Shell* key: s
-11/22/2020 13:47:27 WINDOW: *Python 3.9.0 Shell* key: [space]
-11/22/2020 13:47:28 WINDOW: *Python 3.9.0 Shell* key: d
-11/22/2020 13:47:28 WINDOW: *Python 3.9.0 Shell* key: f
-11/22/2020 13:47:28 WINDOW: *Python 3.9.0 Shell* key: a
-11/22/2020 13:47:28 WINDOW: *Python 3.9.0 Shell* key: [space]
-11/22/2020 13:47:28 WINDOW: *Python 3.9.0 Shell* key: d
-11/22/2020 13:47:28 WINDOW: *Python 3.9.0 Shell* key: a
-11/22/2020 13:47:13 WINDOW: *Python 3.9.0 Shell* key: o
-11/22/2020 13:47:14 WINDOW: *Python 3.9.0 Shell* key: [enter]
-11/22/2020 13:47:14 WINDOW: Task Switching key: [tab]
-11/22/2020 13:47:16 WINDOW: Task Switching key: [alt]
-11/22/2020 13:47:17 WINDOW:  key: [alt]
-11/22/2020 13:47:17 WINDOW: *Python 3.9.0 Shell* key: [tab]
-11/22/2020 13:47:19 WINDOW: *Python 3.9.0 Shell* key: a
-11/22/2020 13:47:19 WINDOW: *Python 3.9.0 Shell* key: f
-11/22/2020 13:47:19 WINDOW: *Python 3.9.0 Shell* key: d
-11/22/2020 13:47:19 WINDOW: *Python 3.9.0 Shell* key: a
-11/22/2020 13:47:20 WINDOW: *Python 3.9.0 Shell* key: [backspace]
-11/22/2020 13:47:21 WINDOW: *Python 3.9.0 Shell* key: s
-11/22/2020 13:47:21 WINDOW: *Python 3.9.0 Shell* key: a
-11/22/2020 13:47:21 WINDOW: *Python 3.9.0 Shell* key: d
-11/22/2020 13:47:21 WINDOW: *Python 3.9.0 Shell* key: a
-11/22/2020 13:47:21 WINDOW: *Python 3.9.0 Shell* key: f
-11/22/2020 13:47:21 WINDOW: *Python 3.9.0 Shell* key: [backspace]
-11/22/2020 13:47:21 WINDOW: *Python 3.9.0 Shell* key: [backspace]
+11/25/2020 17:55:15 WINDOW:  key: a
+11/25/2020 17:55:15 WINDOW:  key: d
+11/25/2020 17:55:15 WINDOW:  key: a
+11/25/2020 17:55:15 WINDOW:  key: f
+11/25/2020 17:55:15 WINDOW:  key: d
+11/25/2020 17:55:16 WINDOW:  key: a
+11/25/2020 17:55:16 WINDOW:  key: f
+11/25/2020 17:55:16 WINDOW:  key: a
+11/25/2020 17:55:16 WINDOW:  key: s
+11/25/2020 17:55:16 WINDOW:  key: d
+11/25/2020 17:55:16 WINDOW:  key: f
+11/25/2020 17:55:16 WINDOW:  key: a
+11/25/2020 17:55:16 WINDOW:  key: s
+11/25/2020 17:55:16 WINDOW:  key: f
+11/25/2020 17:55:16 WINDOW:  key: d
+11/25/2020 17:55:16 WINDOW:  key: a
+11/25/2020 17:55:16 WINDOW:  key: f
+11/25/2020 17:55:16 WINDOW:  key: d
+11/25/2020 17:55:16 WINDOW:  key: a
+11/25/2020 17:55:17 WINDOW:  key: f
+11/25/2020 17:55:17 WINDOW:  key: d
+11/25/2020 17:55:17 WINDOW:  key: [space]
+11/25/2020 17:55:17 WINDOW:  key: a
+11/25/2020 17:55:17 WINDOW:  key: f
+11/25/2020 17:55:17 WINDOW:  key: d
+11/25/2020 17:55:17 WINDOW:  key: a
+11/25/2020 17:55:17 WINDOW:  key: s
+11/25/2020 17:55:17 WINDOW:  key: f
+11/25/2020 17:55:17 WINDOW:  key: d
+11/25/2020 17:55:17 WINDOW:  key: [space]
+11/25/2020 17:55:17 WINDOW:  key: a
+11/25/2020 17:55:17 WINDOW:  key: s
+11/25/2020 17:55:17 WINDOW:  key: f
+11/25/2020 17:55:17 WINDOW:  key: d
+11/25/2020 17:55:17 WINDOW:  key: a
+11/25/2020 17:55:18 WINDOW:  key: s
+11/25/2020 17:55:18 WINDOW:  key: [space]
+11/25/2020 17:55:18 WINDOW:  key: f
+11/25/2020 17:55:18 WINDOW:  key: d
+11/25/2020 17:55:18 WINDOW:  key: a
+11/25/2020 17:55:18 WINDOW:  key: s
+11/25/2020 17:55:18 WINDOW:  key: [space]
+11/25/2020 17:55:18 WINDOW:  key: f
+11/25/2020 17:55:18 WINDOW:  key: d
+11/25/2020 17:55:18 WINDOW:  key: s
+11/25/2020 17:55:18 WINDOW:  key: [space]
+11/25/2020 17:55:18 WINDOW:  key: a
+11/25/2020 17:55:18 WINDOW:  key: f
+11/25/2020 17:55:18 WINDOW:  key: [space]
+11/25/2020 17:55:18 WINDOW:  key: s
+11/25/2020 17:55:18 WINDOW:  key: a
+11/25/2020 17:55:18 WINDOW:  key: d
+11/25/2020 17:55:18 WINDOW:  key: [space]
+11/25/2020 17:55:18 WINDOW:  key: f
+11/25/2020 17:55:18 WINDOW:  key: d
+11/25/2020 17:55:18 WINDOW:  key: [space]
+11/25/2020 17:55:18 WINDOW:  key: a
+11/25/2020 17:55:18 WINDOW:  key: s
+11/25/2020 17:55:19 WINDOW:  key: f
+11/25/2020 17:55:19 WINDOW:  key: [space]
+11/25/2020 17:55:19 WINDOW:  key: d
+11/25/2020 17:55:19 WINDOW:  key: a
+11/25/2020 17:55:19 WINDOW:  key: s
+11/25/2020 17:55:19 WINDOW:  key: [space]
+11/25/2020 17:55:19 WINDOW:  key: f
+11/25/2020 17:55:19 WINDOW:  key: a
+11/25/2020 17:55:19 WINDOW:  key: s
+11/25/2020 17:55:19 WINDOW:  key: d
+11/25/2020 17:55:19 WINDOW:  key: f
+11/25/2020 17:55:19 WINDOW:  key: a
+11/25/2020 17:55:19 WINDOW:  key: s
+11/25/2020 17:55:19 WINDOW:  key: d
+11/25/2020 17:55:19 WINDOW:  key: [space]
+11/25/2020 17:55:19 WINDOW:  key: f
+11/25/2020 17:55:19 WINDOW:  key: a
+11/25/2020 17:55:19 WINDOW:  key: s
+11/25/2020 17:55:19 WINDOW:  key: d
+11/25/2020 17:55:19 WINDOW:  key: f
+11/25/2020 17:55:19 WINDOW:  key: [space]
+11/25/2020 17:55:19 WINDOW:  key: d
+11/25/2020 17:55:19 WINDOW:  key: a
+11/25/2020 17:55:19 WINDOW:  key: s
+11/25/2020 17:52:49 WINDOW:  key: [tab]
+11/25/2020 17:52:50 WINDOW:  key: [alt]
+11/25/2020 17:52:41 WINDOW:  key: o
+11/25/2020 17:52:41 WINDOW:  key: e
+11/25/2020 17:52:41 WINDOW:  key: n
+11/25/2020 17:52:42 WINDOW:  key: [space]
+11/25/2020 17:52:42 WINDOW:  key: o
+11/25/2020 17:52:42 WINDOW:  key: n
+11/25/2020 17:52:42 WINDOW:  key: e
+11/25/2020 17:52:42 WINDOW:  key: [space]
+11/25/2020 17:52:42 WINDOW:  key: e
+11/25/2020 17:52:42 WINDOW:  key: o
+11/25/2020 17:52:42 WINDOW:  key: e
+11/25/2020 17:52:42 WINDOW:  key: n
+11/25/2020 17:52:42 WINDOW:  key: [space]
+11/25/2020 17:52:43 WINDOW:  key: e
+11/25/2020 17:52:43 WINDOW:  key: o
+11/25/2020 17:52:43 WINDOW:  key: n
+11/25/2020 17:52:43 WINDOW:  key: e
+11/25/2020 17:52:43 WINDOW:  key: o
+11/25/2020 17:52:43 WINDOW:  key: n
+11/25/2020 17:52:43 WINDOW:  key: e
+11/25/2020 17:52:43 WINDOW:  key: o
+11/25/2020 17:52:43 WINDOW:  key: e
+11/25/2020 17:52:43 WINDOW:  key: o
+11/25/2020 17:52:43 WINDOW:  key: e
+11/25/2020 17:52:43 WINDOW:  key: n
+11/25/2020 17:52:43 WINDOW:  key: o
+11/25/2020 17:52:43 WINDOW:  key: n
+11/25/2020 17:52:43 WINDOW:  key: e
+11/25/2020 17:52:43 WINDOW:  key: o
+11/25/2020 17:52:44 WINDOW:  key: o
+11/25/2020 17:52:44 WINDOW:  key: e
+11/25/2020 17:52:44 WINDOW:  key: o
 passwords:
-~*Python 3.9.0 Shell*:fasdfasfd~*Python 3.9.0 Shell*:afdsadaafdafdafdsafasdfasdf~*Python 3.9.0 Shell*:afasdfas~
+:adafdafasdfasfdafdafd~:fasdfasd~:eoneoneoeoenoneooeo~
 potential password:
-~~~
+~~
 user:
 munda
 username:
-~~~
+~~
 

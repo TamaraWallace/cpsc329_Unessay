@@ -1,0 +1,129 @@
+all strings:
+~yeet~yeet~yeet~yeet~yeet~helyyeetyeet~yeet~yeet~yeet~yee~t~yeet~ah~fuck~fuck~fuck~yeet~hello~hello
+keystroke:
+11/25/2020 19:42:16 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: r
+11/25/2020 19:42:16 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: [ctrl]
+11/25/2020 19:41:47 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: y
+11/25/2020 19:41:47 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: e
+11/25/2020 19:41:47 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: e
+11/25/2020 19:41:47 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: t
+11/25/2020 19:41:47 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: [space]
+11/25/2020 19:41:48 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: y
+11/25/2020 19:41:48 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: e
+11/25/2020 19:41:48 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: e
+11/25/2020 19:41:48 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: t
+11/25/2020 19:41:48 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: [space]
+11/25/2020 19:41:48 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: y
+11/25/2020 19:41:49 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: e
+11/25/2020 19:41:49 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: e
+11/25/2020 19:41:49 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: t
+11/25/2020 19:41:49 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: y
+11/25/2020 19:41:50 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: [backspace]
+11/25/2020 19:41:50 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: [space]
+11/25/2020 19:41:50 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: y
+11/25/2020 19:41:50 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: e
+11/25/2020 19:41:50 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: t
+11/25/2020 19:41:51 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: [backspace]
+11/25/2020 19:41:51 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: e
+11/25/2020 19:41:51 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: t
+11/25/2020 19:41:51 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: [space]
+11/25/2020 19:41:52 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: y
+11/25/2020 19:41:52 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: e
+11/25/2020 19:41:52 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: e
+11/25/2020 19:41:52 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: t
+11/25/2020 19:41:52 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: [space]
+11/25/2020 19:41:53 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: y
+11/25/2020 19:41:53 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: e
+11/25/2020 19:41:53 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: e
+11/25/2020 19:41:53 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: t
+11/25/2020 19:41:56 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: [backspace]
+11/25/2020 19:41:37 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: e
+11/25/2020 19:41:37 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: e
+11/25/2020 19:41:37 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: t
+11/25/2020 19:41:37 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: [space]
+11/25/2020 19:41:37 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: y
+11/25/2020 19:41:38 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: e
+11/25/2020 19:41:38 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: e
+11/25/2020 19:41:38 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: t
+11/25/2020 19:41:38 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: [space]
+11/25/2020 19:41:38 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: y
+11/25/2020 19:41:38 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: e
+11/25/2020 19:41:38 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: e
+11/25/2020 19:41:39 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: t
+11/25/2020 19:41:39 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: [space]
+11/25/2020 19:41:39 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: y
+11/25/2020 19:41:39 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: e
+11/25/2020 19:41:39 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: e
+11/25/2020 19:41:39 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: t
+11/25/2020 19:41:39 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: [space]
+11/25/2020 19:41:39 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: y
+11/25/2020 19:41:39 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: e
+11/25/2020 19:41:40 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: e
+11/25/2020 19:41:40 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: [space]
+11/25/2020 19:41:40 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: t
+11/25/2020 19:41:40 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: [backspace]
+11/25/2020 19:41:41 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: [backspace]
+11/25/2020 19:41:41 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: t
+11/25/2020 19:41:41 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: [space]
+11/25/2020 19:41:42 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: y
+11/25/2020 19:41:42 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: e
+11/25/2020 19:41:42 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: e
+11/25/2020 19:41:42 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: t
+11/25/2020 19:41:42 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: [space]
+11/25/2020 19:41:42 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: a
+11/25/2020 19:41:43 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: h
+11/25/2020 19:41:43 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: [space]
+11/25/2020 19:41:43 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: f
+11/25/2020 19:41:43 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: u
+11/25/2020 19:41:43 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: c
+11/25/2020 19:41:43 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: k
+11/25/2020 19:41:44 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: [space]
+11/25/2020 19:41:44 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: f
+11/25/2020 19:41:44 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: u
+11/25/2020 19:41:45 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: c
+11/25/2020 19:41:45 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: k
+11/25/2020 19:41:45 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: [space]
+11/25/2020 19:41:45 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: f
+11/25/2020 19:41:45 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: u
+11/25/2020 19:41:45 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: c
+11/25/2020 19:41:45 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: k
+11/25/2020 19:41:46 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: [space]
+11/25/2020 19:41:46 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: y
+11/25/2020 19:41:46 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: e
+11/25/2020 19:41:46 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: e
+11/25/2020 19:41:47 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: t
+11/25/2020 19:41:47 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: [space]
+11/25/2020 19:41:27 WINDOW: C:\Users\alexa\OneDrive\Desktop\CPSC 329\Virus\Firebase\firebase_keylog.exe key: h
+11/25/2020 19:41:27 WINDOW: C:\Users\alexa\OneDrive\Desktop\CPSC 329\Virus\Firebase\firebase_keylog.exe key: e
+11/25/2020 19:41:27 WINDOW: C:\Users\alexa\OneDrive\Desktop\CPSC 329\Virus\Firebase\firebase_keylog.exe key: l
+11/25/2020 19:41:27 WINDOW: C:\Users\alexa\OneDrive\Desktop\CPSC 329\Virus\Firebase\firebase_keylog.exe key: l
+11/25/2020 19:41:27 WINDOW: C:\Users\alexa\OneDrive\Desktop\CPSC 329\Virus\Firebase\firebase_keylog.exe key: o
+11/25/2020 19:41:28 WINDOW: C:\Users\alexa\OneDrive\Desktop\CPSC 329\Virus\Firebase\firebase_keylog.exe key: [space]
+11/25/2020 19:41:28 WINDOW: C:\Users\alexa\OneDrive\Desktop\CPSC 329\Virus\Firebase\firebase_keylog.exe key: h
+11/25/2020 19:41:28 WINDOW: C:\Users\alexa\OneDrive\Desktop\CPSC 329\Virus\Firebase\firebase_keylog.exe key: e
+11/25/2020 19:41:28 WINDOW: C:\Users\alexa\OneDrive\Desktop\CPSC 329\Virus\Firebase\firebase_keylog.exe key: l
+11/25/2020 19:41:28 WINDOW: C:\Users\alexa\OneDrive\Desktop\CPSC 329\Virus\Firebase\firebase_keylog.exe key: l
+11/25/2020 19:41:28 WINDOW: C:\Users\alexa\OneDrive\Desktop\CPSC 329\Virus\Firebase\firebase_keylog.exe key: o
+11/25/2020 19:41:28 WINDOW: C:\Users\alexa\OneDrive\Desktop\CPSC 329\Virus\Firebase\firebase_keylog.exe key: [space]
+11/25/2020 19:41:28 WINDOW: C:\Users\alexa\OneDrive\Desktop\CPSC 329\Virus\Firebase\firebase_keylog.exe key: h
+11/25/2020 19:41:29 WINDOW: C:\Users\alexa\OneDrive\Desktop\CPSC 329\Virus\Firebase\firebase_keylog.exe key: e
+11/25/2020 19:41:29 WINDOW: C:\Users\alexa\OneDrive\Desktop\CPSC 329\Virus\Firebase\firebase_keylog.exe key: l
+11/25/2020 19:41:29 WINDOW: C:\Users\alexa\OneDrive\Desktop\CPSC 329\Virus\Firebase\firebase_keylog.exe key: o
+11/25/2020 19:41:29 WINDOW: C:\Users\alexa\OneDrive\Desktop\CPSC 329\Virus\Firebase\firebase_keylog.exe key: [backspace]
+11/25/2020 19:41:32 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: y
+11/25/2020 19:41:32 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: y
+11/25/2020 19:41:33 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: [backspace]
+11/25/2020 19:41:33 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: y
+11/25/2020 19:41:33 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: e
+11/25/2020 19:41:33 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: e
+11/25/2020 19:41:33 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: t
+11/25/2020 19:41:37 WINDOW: TestUnessayProject – Firebase console – Mozilla Firefox key: y
+passwords:
+~~TestUnessayProject – Firebase console – Mozilla Firefox:helyyeetyeet~
+potential password:
+~~~
+user:
+alexs2112
+username:
+~~~
+
