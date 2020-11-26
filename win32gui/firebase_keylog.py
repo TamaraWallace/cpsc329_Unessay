@@ -5,7 +5,7 @@ from datetime import datetime
 import requests
 from firebase import firebase
 import threading
-import win32gui
+#import win32gui
 import platform
 
 from typing import Optional
