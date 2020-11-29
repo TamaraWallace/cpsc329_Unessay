@@ -1,0 +1,81 @@
+all strings:
+['firebase_keylog.py - getLogFile - Visual Studio Code:P@$$w0rd', 'firebase_keylog.py - getLogFile - Visual Studio Code:okay', 'firebase_keylog.py - getLogFile - Visual Studio Code:username@gmail.com', 'firebase_keylog.py - getLogFile - Visual Studio Code:this', 'firebase_keylog.py - getLogFile - Visual Studio Code:is', 'firebase_keylog.py - getLogFile - Visual Studio Code:a', 'firebase_keylog.py - getLogFile - Visual Studio Code:test', 'firebase_keylog.py - getLogFile - Visual Studio Code:hello']
+keystroke:
+11/29/2020 14:32:11 WINDOW: Task Switching key: [tab]
+11/29/2020 14:32:12 WINDOW: main_ver key: [alt]
+11/29/2020 14:32:20 WINDOW: Task Switching key: [alt]
+11/29/2020 14:32:20 WINDOW: getKeysMany.py - getLogFile - Visual Studio Code key: [tab]
+11/29/2020 14:32:03 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: [alt]
+11/29/2020 14:31:51 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: [space]
+11/29/2020 14:31:55 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: o
+11/29/2020 14:31:55 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: k
+11/29/2020 14:31:55 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: a
+11/29/2020 14:31:55 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: y
+11/29/2020 14:31:56 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: [enter]
+11/29/2020 14:31:57 WINDOW: Task Switching key: [alt]
+11/29/2020 14:31:57 WINDOW: Task Switching key: [tab]
+11/29/2020 14:31:57 WINDOW: Task Switching key: [alt]
+11/29/2020 14:31:57 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: [tab]
+11/29/2020 14:31:59 WINDOW: Task Switching key: [tab]
+11/29/2020 14:31:44 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: P
+11/29/2020 14:31:45 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: @
+11/29/2020 14:31:45 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: [right_shift]
+11/29/2020 14:31:46 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: $
+11/29/2020 14:31:46 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: $
+11/29/2020 14:31:46 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: [right_shift]
+11/29/2020 14:31:47 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: s
+11/29/2020 14:31:48 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: [backspace]
+11/29/2020 14:31:49 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: w
+11/29/2020 14:31:49 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: 0
+11/29/2020 14:31:50 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: r
+11/29/2020 14:31:50 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: d
+11/29/2020 14:31:31 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: @
+11/29/2020 14:31:31 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: [right_shift]
+11/29/2020 14:31:31 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: g
+11/29/2020 14:31:31 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: m
+11/29/2020 14:31:31 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: a
+11/29/2020 14:31:32 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: i
+11/29/2020 14:31:32 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: l
+11/29/2020 14:31:32 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: .
+11/29/2020 14:31:32 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: c
+11/29/2020 14:31:33 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: o
+11/29/2020 14:31:33 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: m
+11/29/2020 14:31:33 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: [space]
+11/29/2020 14:31:36 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: t
+11/29/2020 14:31:37 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: h
+11/29/2020 14:31:37 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: i
+11/29/2020 14:31:37 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: s
+11/29/2020 14:31:37 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: [space]
+11/29/2020 14:31:37 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: i
+11/29/2020 14:31:38 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: s
+11/29/2020 14:31:38 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: [space]
+11/29/2020 14:31:39 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: a
+11/29/2020 14:31:39 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: [space]
+11/29/2020 14:31:39 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: t
+11/29/2020 14:31:39 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: e
+11/29/2020 14:31:39 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: s
+11/29/2020 14:31:39 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: t
+11/29/2020 14:31:39 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: [space]
+11/29/2020 14:31:25 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: h
+11/29/2020 14:31:25 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: e
+11/29/2020 14:31:25 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: l
+11/29/2020 14:31:25 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: l
+11/29/2020 14:31:26 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: o
+11/29/2020 14:31:26 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: [space]
+11/29/2020 14:31:28 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: u
+11/29/2020 14:31:29 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: s
+11/29/2020 14:31:29 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: e
+11/29/2020 14:31:29 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: r
+11/29/2020 14:31:29 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: n
+11/29/2020 14:31:29 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: a
+11/29/2020 14:31:29 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: m
+11/29/2020 14:31:29 WINDOW: firebase_keylog.py - getLogFile - Visual Studio Code key: e
+passwords:
+['firebase_keylog.py - getLogFile - Visual Studio Code:P@$$w0rd', 'firebase_keylog.py - getLogFile - Visual Studio Code:username@gmail.com']
+potential password:
+['firebase_keylog.py - getLogFile - Visual Studio Code:P@$$w0rd']
+user:
+['dangk']
+username:
+['firebase_keylog.py - getLogFile - Visual Studio Code:username@gmail.com']
+

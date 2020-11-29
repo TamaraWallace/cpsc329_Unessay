@@ -1,5 +1,5 @@
 all strings:
-c~~di~d~it~one~two~three~adafdafasdfasfdafdafd~afdasfd~asfdas~fdas~fds~af~sad~fd~asf~das~fasdfasd~fasdf~eoneoneoeoenoneooeo~oen~one~eoen
+all strings['c', 'di', 'd', 'it', 'one', 'two', 'three', 'adafdafasdfasfdafdafd', 'afdasfd', 'asfdas', 'fdas', 'fds', 'af', 'sad', 'fd', 'asf', 'das', 'fasdfasd', 'fasdf', 'eoneoneoeoenoneooeo', 'oen', 'one', 'eoen']
 keystroke:
 11/25/2020 19:39:49 WINDOW: Task Switching key: [alt]
 11/25/2020 19:39:50 WINDOW: Downloads and 3 more pages - Personal - Microsoft​ Edge key: [tab]
@@ -153,11 +153,11 @@ keystroke:
 11/25/2020 17:52:44 WINDOW:  key: e
 11/25/2020 17:52:44 WINDOW:  key: o
 passwords:
-~~~~:adafdafasdfasfdafdafd~:fasdfasd~:eoneoneoeoenoneooeo~
+passwords[':adafdafasdfasfdafdafd', ':fasdfasd', ':eoneoneoeoenoneooeo']
 potential password:
-~~~~~~
+potential password[]
 user:
-munda
+user['munda']
 username:
-~~~~~~
+username[]
 
