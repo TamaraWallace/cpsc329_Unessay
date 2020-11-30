@@ -1,4 +1,0 @@
-keyboard
-requests
-pywin32
-git+https://github.com/ozgur/python-firebase
