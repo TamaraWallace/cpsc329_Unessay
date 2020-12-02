@@ -123,7 +123,7 @@ while(len(line) > 15):
                     currentString = key
 
     
-        elif(key.strip() != "[right_shift]" and key.strip() != "[left_shift]"):
+        elif(key.strip() != "[right_shift]" and key.strip() != "[left_shift]" and key.strip() != "[shift]"):
             currentString += key
 
     lastWindow = window
