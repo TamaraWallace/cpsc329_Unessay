@@ -1,9 +1,20 @@
 import sys
+import os.path
 
+# A way to only load specific log files
+filename = "log.txt"
+while True:
+    filename = input("Filename: ")
+    if (filename == ""):
+        sys.exit(1)
+        break
+    if os.path.exists(filename):
+        break
+    else:
+        print(filename + " not found!\n")
 
-file = "log.txt"
 try:
-    file = open("log.txt", "r")
+    file = open(filename, "r")
 
 except:
    print("oops!")
