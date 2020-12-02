@@ -1,6 +1,25 @@
 import sys
 import os.path
 
+# A function to automatically add input strings from common log in windows
+# as passwords
+# Currently based on common social media websites, however it would be
+# straightforward enough to add other log in websites, such as common banks
+listOfLoginWindows = [
+    "Log into Facebook",
+    "Facebook - Log In or Sign Up",
+    "Twitter. It's what's happening / Twitter",
+    "Instagram",
+    "LinkedIn: Log In or Sign Up",
+    "Pinterest",
+    "reddit.com: Log in"
+    ]
+def isLoginWindow(w):
+    for e in listOfLoginWindows:
+        if e in w:
+            return True
+    return False
+
 # A way to only load specific log files
 filename = "log.txt"
 while True:
@@ -113,41 +132,22 @@ while(len(line) > 15):
     print(key)
     line = file.readline()
         
-        
 passwordList = []
-
 
 for key in dictionary.keys():
 
     for i in dictionary[key]:
-        if(len(i) >= 8 and len(i) <= 15):
+        if(len(i) >= 8 and len(i) <= 16):
             passwordList.append(i)
 
     for i in passwordList:
-        if not i.islower():
-            passwordList.remove(i)
-            passwordList.insert(0,i)
-        elif not i.isalpha():
+        if not i.islower() or not i.isalpha() or isLoginWindow(key):
             passwordList.remove(i)
             passwordList.insert(0,i)
 
-
-    print("The potential passwords for " + key + "are: ")
+    print("The potential passwords for " + key + " are: ")
 
     for i in passwordList:
         print(i)
 
     passwordList = []
-
-    
-
-    
-        
-
-    
-
-            
-        
-
-
-
