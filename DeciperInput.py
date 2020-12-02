@@ -116,14 +116,30 @@ while(len(line) > 15):
         
 passwordList = []
 
-print(currentString)
 
 for key in dictionary.keys():
-    print(key, dictionary[key])
-    array = dictionary[key]
-    for i in array:
-        if(len(i)>= 8 and len(i) <= 15):
+
+    for i in dictionary[key]:
+        if(len(i) >= 8 and len(i) <= 15):
             passwordList.append(i)
+
+    for i in passwordList:
+        if not i.islower():
+            passwordList.remove(i)
+            passwordList.insert(0,i)
+        elif not i.isalpha():
+            passwordList.remove(i)
+            passwordList.insert(0,i)
+
+
+    print("The potential passwords for " + key + "are: ")
+
+    for i in passwordList:
+        print(i)
+
+    passwordList = []
+
+    
 
     
         
